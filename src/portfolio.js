@@ -11,7 +11,7 @@ const seo = {
   og: {
     title: "Shrey Sadhukhan Portfolio",
     type: "website",
-    url: "",
+    url: "#",
   },
 };
 
@@ -23,7 +23,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1RZ5mo2GkWuwWfKUxHfvahg5fph5hhqC8/view?usp=sharing",
+    "https://docs.google.com/document/d/1f4Pgn7VO6hnzhIMAePBOiuvvxxVQQqCMQGDpfly-hKI/edit?usp=sharing",
   portfolio_repository: "https://github.com/shreyzeous21/shreyzeous21.github.io",
   githubProfile: "https://github.com/shreyzeous21",
 };
@@ -46,7 +46,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/shrey-sadhukha-a96590201/",
+    link: "https://www.linkedin.com/in/shrey-sadhukhan-a96590201/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
